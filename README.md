@@ -80,6 +80,7 @@ I'm deeply passionate about staying up-to-date with the latest technologies and 
 - Contributing to open-source projects
 - Attending tech conferences and meetups
 
+<hr>
 <h3>📫 Get in Touch</h3>
 
 Feel free to connect with me on social media or through email:
@@ -105,14 +106,19 @@ Feel free to connect with me on social media or through email:
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110px" />
     </a>
   </span>
+  <span>
+    <a href="https://stackoverflow.com/users/7152593/awais-khalid" target="_blank">
+      <img src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" width="145px" />
+    </a>
+  </span>
 </div>
 
 <hr/>
 
 ## 🔗 Additional Links
 
-- [My Portfolio](https://www.yourportfolio.com)
-- [My Blog](https://www.yourblog.com)
+- [My Portfolio](https://www.awaisharal.com)
+- [My Blog](https://www.awaisharal.com/blog)
 
 ## 🤝 Let's Collaborate!
 
