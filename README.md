@@ -91,7 +91,7 @@ Feel free to connect with me on social media or through email:
     </a>
   </span>
   <span>
-    <a href="https://www.linkedin.com/in/awais-haral/" target="_blank">
+    <a href="#">
       <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&label=%20" width="140px" />
     </a>
   </span>
